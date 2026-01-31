@@ -1,3 +1,6 @@
-This repository is only used during PACE activities.
-Every activity done during the hour shall be updated here.
-                                                      -Vihan
+Here You'll find Leetcode problems with best efficiency.
+#vjec
+#engineering
+#leetcode
+#cse
+#btech
